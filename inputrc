@@ -1,0 +1,8 @@
+set editing-mode vi
+set show-all-if-ambiguous
+set skip-completed-text on
+set keymap vi-insert
+"\e[A": history-search-backward
+"\C-j": history-search-backward
+"\e[B": history-search-forward
+"\C-l":  clear-screen  # CTRL-L
