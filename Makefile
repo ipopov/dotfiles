@@ -3,3 +3,4 @@ install:
 	cp inputrc ~/.inputrc
 	cp tmux.conf ~/.tmux.conf
 	cp vimrc ~/.vimrc
+	cp bashrc ~/.bashrc
