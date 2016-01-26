@@ -14,3 +14,6 @@ alias h="history | tac | view -"
 
 alias vi="vi -p"
 alias vp='view -'
+
+alias l='ls'
+alias ll='ls -l'
