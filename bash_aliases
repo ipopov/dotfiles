@@ -17,3 +17,4 @@ alias vp='view -'
 
 alias l='ls'
 alias ll='ls -l'
+alias stats='Rscript -e "summary (as.numeric (readLines (\"stdin\")))"'
